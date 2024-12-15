@@ -1,0 +1,2231 @@
+@font-face {
+  font-family: "WAGURITTF";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2403@1.0/WAGURITTF.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 7421px;
+  position: relative;
+}
+
+.screen .overlap {
+  position: absolute;
+  width: 1485px;
+  height: 1845px;
+  top: 5768px;
+  left: -22px;
+}
+
+.screen .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 638px;
+  top: 1207px;
+  left: 22px;
+  background-color: #2dc476;
+}
+
+.screen .frame {
+  position: absolute;
+  width: 1485px;
+  height: 1349px;
+  top: 0;
+  left: 0;
+  transform: rotate(-180deg);
+}
+
+.screen .group {
+  height: 1349px;
+}
+
+.screen .overlap-group {
+  position: relative;
+  width: 1485px;
+  height: 1349px;
+}
+
+.screen .group-2 {
+  position: absolute;
+  width: 1485px;
+  height: 249px;
+  top: 0;
+  left: 0;
+}
+
+.screen .overlap-group-2 {
+  position: absolute;
+  width: 738px;
+  height: 249px;
+  top: 0;
+  left: 0;
+}
+
+.screen .ellipse {
+  position: absolute;
+  width: 249px;
+  height: 249px;
+  top: 0;
+  left: 0;
+  background-color: #ffdd9e;
+  border-radius: 124.5px;
+}
+
+.screen .ellipse-2 {
+  position: absolute;
+  width: 249px;
+  height: 249px;
+  top: 0;
+  left: 241px;
+  background-color: #ffdd9e;
+  border-radius: 124.5px;
+}
+
+.screen .ellipse-3 {
+  position: absolute;
+  width: 249px;
+  height: 249px;
+  top: 0;
+  left: 489px;
+  background-color: #ffdd9e;
+  border-radius: 124.5px;
+}
+
+.screen .ellipse-4 {
+  position: absolute;
+  width: 249px;
+  height: 249px;
+  top: 0;
+  left: 738px;
+  background-color: #ffdd9e;
+  border-radius: 124.5px;
+}
+
+.screen .ellipse-5 {
+  position: absolute;
+  width: 249px;
+  height: 249px;
+  top: 0;
+  left: 987px;
+  background-color: #ffdd9e;
+  border-radius: 124.5px;
+}
+
+.screen .ellipse-6 {
+  position: absolute;
+  width: 249px;
+  height: 249px;
+  top: 0;
+  left: 1236px;
+  background-color: #ffdd9e;
+  border-radius: 124.5px;
+}
+
+.screen .element {
+  position: absolute;
+  width: 1440px;
+  height: 1246px;
+  top: 103px;
+  left: 21px;
+  background-color: #ffdd9e;
+}
+
+.screen .overlap-wrapper {
+  position: absolute;
+  width: 809px;
+  height: 79px;
+  top: 1454px;
+  left: 337px;
+}
+
+.screen .overlap-2 {
+  position: relative;
+  width: 807px;
+  height: 79px;
+}
+
+.screen .rectangle-2 {
+  position: absolute;
+  width: 405px;
+  height: 79px;
+  top: 0;
+  left: 199px;
+  background-color: #ffdd9e;
+  border-radius: 60px;
+}
+
+.screen .text-wrapper {
+  position: absolute;
+  width: 807px;
+  top: 16px;
+  left: 0;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-2 {
+  position: absolute;
+  width: 1056px;
+  top: 155px;
+  left: 214px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .overlap-group-wrapper {
+  position: absolute;
+  width: 432px;
+  height: 398px;
+  top: 400px;
+  left: 214px;
+}
+
+.screen .overlap-3 {
+  position: relative;
+  height: 398px;
+}
+
+.screen .div-wrapper {
+  position: absolute;
+  width: 432px;
+  height: 398px;
+  top: 0;
+  left: 0;
+}
+
+.screen .overlap-group-3 {
+  position: relative;
+  width: 438px;
+  height: 403px;
+  top: -2px;
+  left: -2px;
+  background-image: url(https://c.animaapp.com/8SCHyoJX/img/vector-1.svg);
+  background-size: 100% 100%;
+}
+
+.screen .overlap-4 {
+  position: absolute;
+  width: 117px;
+  height: 109px;
+  top: 134px;
+  left: 206px;
+}
+
+.screen .image {
+  width: 70px;
+  height: 47px;
+  top: 0;
+  left: 47px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .img {
+  width: 95px;
+  height: 71px;
+  top: 38px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .image-2 {
+  width: 112px;
+  height: 84px;
+  top: 104px;
+  left: 74px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .group-3 {
+  position: absolute;
+  width: 45px;
+  height: 66px;
+  top: 89px;
+  left: 320px;
+}
+
+.screen .overlap-5 {
+  position: relative;
+  width: 43px;
+  height: 66px;
+}
+
+.screen .ellipse-7 {
+  position: absolute;
+  width: 43px;
+  height: 45px;
+  top: 0;
+  left: 0;
+  background-color: #2dc476;
+  border-radius: 21.46px / 22.56px;
+}
+
+.screen .text-wrapper-3 {
+  position: absolute;
+  width: 8px;
+  top: 13px;
+  left: 17px;
+  font-family: "WAGURI TTF";
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .group-4 {
+  position: absolute;
+  width: 48px;
+  height: 66px;
+  top: 235px;
+  left: 285px;
+}
+
+.screen .overlap-6 {
+  position: relative;
+  width: 46px;
+  height: 66px;
+}
+
+.screen .ellipse-8 {
+  position: absolute;
+  width: 46px;
+  height: 45px;
+  top: 0;
+  left: 0;
+  background-color: #2dc476;
+  border-radius: 22.77px / 22.56px;
+}
+
+.screen .text-wrapper-4 {
+  position: absolute;
+  width: 9px;
+  top: 13px;
+  left: 18px;
+  font-family: "WAGURI TTF";
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .group-5 {
+  position: absolute;
+  width: 49px;
+  height: 66px;
+  top: 66px;
+  left: 49px;
+}
+
+.screen .overlap-7 {
+  position: relative;
+  width: 47px;
+  height: 66px;
+}
+
+.screen .ellipse-9 {
+  position: absolute;
+  width: 47px;
+  height: 45px;
+  top: 0;
+  left: 0;
+  background-color: #2dc476;
+  border-radius: 23.26px / 22.56px;
+}
+
+.screen .text-wrapper-5 {
+  position: absolute;
+  width: 9px;
+  top: 13px;
+  left: 19px;
+  font-family: "WAGURI TTF";
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-6 {
+  position: absolute;
+  width: 184px;
+  top: 366px;
+  left: 1030px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .p {
+  position: absolute;
+  width: 177px;
+  top: 433px;
+  left: 1037px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-7 {
+  position: absolute;
+  width: 277px;
+  top: 532px;
+  left: 661px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 35px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .text-wrapper-8 {
+  position: absolute;
+  width: 197px;
+  top: 594px;
+  left: 742px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-9 {
+  position: absolute;
+  width: 240px;
+  top: 711px;
+  left: 1031px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .text-wrapper-10 {
+  position: absolute;
+  width: 197px;
+  top: 779px;
+  left: 1038px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .rectangle-3 {
+  position: absolute;
+  width: 270px;
+  height: 137px;
+  top: 527px;
+  left: 981px;
+}
+
+.screen .image-3 {
+  width: 269px;
+  height: 137px;
+  top: 704px;
+  left: 728px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .image-4 {
+  width: 268px;
+  height: 136px;
+  top: 357px;
+  left: 728px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .text-wrapper-11 {
+  position: absolute;
+  width: 995px;
+  top: 968px;
+  left: 214px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .overlap-8 {
+  position: absolute;
+  width: 1440px;
+  height: 901px;
+  top: 3170px;
+  left: 0;
+  background-color: #2dc476;
+}
+
+.screen .rectangle-4 {
+  position: absolute;
+  width: 1209px;
+  height: 753px;
+  top: 67px;
+  left: 143px;
+  background-color: #ffdd9e;
+  border-radius: 50px;
+}
+
+.screen .text-wrapper-12 {
+  position: absolute;
+  width: 626px;
+  top: 108px;
+  left: 435px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .group-wrapper {
+  position: absolute;
+  width: 456px;
+  height: 215px;
+  top: 212px;
+  left: 177px;
+  background-color: #ffffff;
+  border-radius: 19px;
+}
+
+.screen .group-6 {
+  position: relative;
+  width: 397px;
+  height: 165px;
+  top: 18px;
+  left: 30px;
+}
+
+.screen .overlap-9 {
+  position: relative;
+  width: 399px;
+  height: 165px;
+}
+
+.screen .group-7 {
+  position: absolute;
+  width: 399px;
+  height: 165px;
+  top: 0;
+  left: 0;
+}
+
+.screen .vector-wrapper {
+  position: absolute;
+  width: 397px;
+  height: 143px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/8SCHyoJX/img/image-31@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.screen .rectangle-5 {
+  position: absolute;
+  width: 81px;
+  height: 11px;
+  top: 2px;
+  left: 161px;
+  background-color: #ffffff;
+}
+
+.screen .text-wrapper-13 {
+  position: absolute;
+  width: 176px;
+  top: 0;
+  left: 110px;
+  font-family: "Inter";
+  font-weight: 600;
+  color: #2dc476;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .ellipse-10 {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 29px;
+  left: 178px;
+  border-radius: 17.15px;
+  border: 5px solid;
+  border-color: #ff928a;
+}
+
+.screen .group-8 {
+  position: absolute;
+  width: 299px;
+  height: 215px;
+  top: 212px;
+  left: 661px;
+}
+
+.screen .element-wrapper {
+  position: relative;
+  width: 297px;
+  height: 215px;
+  background-color: #ffffff;
+  border-radius: 30px;
+}
+
+.screen .element-2 {
+  position: absolute;
+  width: 237px;
+  top: 53px;
+  left: 40px;
+  font-family: "Inter";
+  font-weight: 600;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .group-9 {
+  position: absolute;
+  width: 782px;
+  height: 170px;
+  top: 456px;
+  left: 177px;
+}
+
+.screen .overlap-10 {
+  position: relative;
+  width: 780px;
+  height: 170px;
+  background-color: #ffffff;
+  border-radius: 30px;
+}
+
+.screen .image-5 {
+  width: 707px;
+  height: 111px;
+  top: 19px;
+  left: 36px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .text-wrapper-14 {
+  position: absolute;
+  width: 176px;
+  top: 15px;
+  left: 294px;
+  font-family: "Inter";
+  font-weight: 600;
+  color: #2dc476;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .image-6 {
+  width: 118px;
+  height: 118px;
+  top: 662px;
+  left: 811px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .image-7 {
+  width: 176px;
+  height: 176px;
+  top: 638px;
+  left: 629px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .rectangle-6 {
+  position: absolute;
+  width: 415px;
+  height: 141px;
+  top: 650px;
+  left: 177px;
+  background-color: #ffffff;
+  border-radius: 30px;
+}
+
+.screen .element-3 {
+  position: absolute;
+  width: 358px;
+  height: 90px;
+  top: 671px;
+  left: 201px;
+  font-family: "Inter";
+  font-weight: 900;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .group-10 {
+  position: absolute;
+  width: 301px;
+  height: 664px;
+  top: 192px;
+  left: 1019px;
+}
+
+.screen .overlap-11 {
+  position: relative;
+  width: 287px;
+  height: 664px;
+  background-color: #2dc476;
+  border-radius: 30px;
+}
+
+.screen .overlap-12 {
+  position: absolute;
+  width: 256px;
+  height: 102px;
+  top: 288px;
+  left: 18px;
+}
+
+.screen .toiltet-sign-man {
+  position: absolute;
+  width: 102px;
+  height: 102px;
+  top: 0;
+  left: 0;
+}
+
+.screen .element-4 {
+  position: absolute;
+  width: 163px;
+  top: 0;
+  left: 93px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-15 {
+  position: absolute;
+  width: 137px;
+  top: 45px;
+  left: 97px;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .overlap-group-5 {
+  position: absolute;
+  width: 281px;
+  height: 246px;
+  top: 23px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/8SCHyoJX/img/image-33-1@2x.png);
+  background-size: 100% 100%;
+}
+
+.screen .overlap-13 {
+  position: absolute;
+  width: 53px;
+  height: 29px;
+  top: 127px;
+  left: 84px;
+  background-color: #dd5080;
+}
+
+.screen .text-wrapper-16 {
+  top: 0px;
+  left: 9px;
+  position: absolute;
+  width: 44px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .overlap-14 {
+  position: absolute;
+  width: 44px;
+  height: 25px;
+  top: 92px;
+  left: 167px;
+}
+
+.screen .rectangle-7 {
+  position: absolute;
+  width: 43px;
+  height: 25px;
+  top: 0;
+  left: 1px;
+  background-color: #64b1df;
+}
+
+.screen .text-wrapper-17 {
+  top: 9px;
+  left: 0;
+  position: absolute;
+  width: 44px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .overlap-15 {
+  position: absolute;
+  width: 255px;
+  height: 31px;
+  top: 9px;
+  left: 21px;
+}
+
+.screen .rectangle-8 {
+  position: absolute;
+  width: 250px;
+  height: 23px;
+  top: 0;
+  left: 3px;
+  background-color: #2dc476;
+}
+
+.screen .text-wrapper-18 {
+  position: absolute;
+  width: 255px;
+  top: -10px;
+  left: 0;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .rectangle-9 {
+  position: absolute;
+  width: 84px;
+  height: 25px;
+  top: 216px;
+  left: 109px;
+  background-color: #2dc476;
+}
+
+.screen .overlap-16 {
+  position: absolute;
+  width: 256px;
+  height: 114px;
+  top: 420px;
+  left: 18px;
+}
+
+.screen .group-11 {
+  position: absolute;
+  width: 102px;
+  height: 102px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/8SCHyoJX/img/toiltet-sign-man-1.svg);
+  background-size: 100% 100%;
+}
+
+.screen .ellipse-11 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 9px;
+  left: 40px;
+  background-color: #64b1df;
+  border-radius: 10.87px / 11.07px;
+}
+
+.screen .element-5 {
+  position: absolute;
+  width: 163px;
+  top: 12px;
+  left: 93px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-19 {
+  position: absolute;
+  width: 148px;
+  top: 57px;
+  left: 93px;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .overlap-17 {
+  position: absolute;
+  width: 1523px;
+  height: 1654px;
+  top: -95px;
+  left: -36px;
+}
+
+.screen .rectangle-10 {
+  position: absolute;
+  width: 1440px;
+  height: 615px;
+  top: 1039px;
+  left: 36px;
+  background-color: #2dc476;
+}
+
+.screen .group-12 {
+  position: absolute;
+  width: 1523px;
+  height: 1171px;
+  top: 0;
+  left: 0;
+}
+
+.screen .overlap-18 {
+  position: relative;
+  height: 1171px;
+}
+
+.screen .rectangle-11 {
+  position: absolute;
+  width: 1477px;
+  height: 1039px;
+  top: 0;
+  left: 25px;
+  background-color: #ffeac5;
+}
+
+.screen .group-13 {
+  position: absolute;
+  width: 1523px;
+  height: 320px;
+  top: 851px;
+  left: 0;
+}
+
+.screen .overlap-group-6 {
+  position: absolute;
+  width: 757px;
+  height: 320px;
+  top: 0;
+  left: 0;
+}
+
+.screen .ellipse-12 {
+  position: absolute;
+  width: 255px;
+  height: 320px;
+  top: 0;
+  left: 0;
+  background-color: #ffeac5;
+  border-radius: 127.73px / 159.87px;
+}
+
+.screen .ellipse-13 {
+  position: absolute;
+  width: 255px;
+  height: 320px;
+  top: 0;
+  left: 247px;
+  background-color: #ffeac5;
+  border-radius: 127.73px / 159.87px;
+}
+
+.screen .ellipse-14 {
+  position: absolute;
+  width: 255px;
+  height: 320px;
+  top: 0;
+  left: 502px;
+  background-color: #ffeac5;
+  border-radius: 127.73px / 159.87px;
+}
+
+.screen .ellipse-15 {
+  position: absolute;
+  width: 255px;
+  height: 320px;
+  top: 0;
+  left: 757px;
+  background-color: #ffeac5;
+  border-radius: 127.73px / 159.87px;
+}
+
+.screen .ellipse-16 {
+  position: absolute;
+  width: 255px;
+  height: 320px;
+  top: 0;
+  left: 1013px;
+  background-color: #ffeac5;
+  border-radius: 127.73px / 159.87px;
+}
+
+.screen .ellipse-17 {
+  position: absolute;
+  width: 255px;
+  height: 320px;
+  top: 0;
+  left: 1268px;
+  background-color: #ffeac5;
+  border-radius: 127.73px / 159.87px;
+}
+
+.screen .rectangle-12 {
+  position: absolute;
+  width: 310px;
+  height: 79px;
+  top: 601px;
+  left: 196px;
+  background-color: #2dc476;
+  border-radius: 60px;
+}
+
+.screen .text-wrapper-20 {
+  position: absolute;
+  width: 503px;
+  top: 390px;
+  left: 187px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 80px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-21 {
+  position: absolute;
+  width: 503px;
+  top: 1312px;
+  left: 610px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .image-8 {
+  width: 663px;
+  height: 430px;
+  top: 1224px;
+  left: 36px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .text-wrapper-22 {
+  position: absolute;
+  width: 451px;
+  top: 628px;
+  left: 126px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .mask-group {
+  position: absolute;
+  width: 391px;
+  height: 525px;
+  top: 241px;
+  left: 919px;
+}
+
+.screen .mask-group-2 {
+  position: absolute;
+  width: 225px;
+  height: 225px;
+  top: 609px;
+  left: 801px;
+}
+
+.screen .text-wrapper-23 {
+  position: absolute;
+  width: 704px;
+  top: 1407px;
+  left: 722px;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.screen .text-wrapper-24 {
+  position: absolute;
+  width: 701px;
+  top: 4234px;
+  left: 398px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .text-wrapper-25 {
+  width: 701px;
+  top: 5038px;
+  left: 377px;
+  color: #2dc476;
+  font-size: 60px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-26 {
+  position: absolute;
+  width: 701px;
+  top: 5564px;
+  left: 260px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-27 {
+  position: absolute;
+  width: 701px;
+  top: 4349px;
+  left: 398px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-28 {
+  position: absolute;
+  top: 1751px;
+  left: 395px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .overlap-19 {
+  position: absolute;
+  width: 1440px;
+  height: 771px;
+  top: 1818px;
+  left: 0;
+}
+
+.screen .text-wrapper-29 {
+  position: absolute;
+  top: 602px;
+  left: 557px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .overlap-20 {
+  position: absolute;
+  width: 1440px;
+  height: 771px;
+  top: 0;
+  left: 0;
+}
+
+.screen .view {
+  width: 869px;
+  height: 451px;
+  top: 93px;
+  left: 272px;
+  overflow: hidden;
+  position: absolute;
+  background-color: #ffffff;
+}
+
+.screen .group-14 {
+  position: relative;
+  width: 842px;
+  height: 650px;
+  top: 12px;
+  left: -37px;
+}
+
+.screen .overlap-21 {
+  position: relative;
+  width: 805px;
+  height: 439px;
+  left: 37px;
+}
+
+.screen .vector-3 {
+  position: absolute;
+  width: 797px;
+  height: 423px;
+  top: 16px;
+  left: 0;
+}
+
+.screen .group-15 {
+  position: absolute;
+  width: 737px;
+  height: 406px;
+  top: 0;
+  left: 68px;
+}
+
+.screen .overlap-group-7 {
+  position: relative;
+  height: 406px;
+}
+
+.screen .group-16 {
+  position: absolute;
+  width: 737px;
+  height: 401px;
+  top: 0;
+  left: 0;
+}
+
+.screen .group-17 {
+  position: absolute;
+  width: 177px;
+  height: 36px;
+  top: 128px;
+  left: 562px;
+}
+
+.screen .vector-4 {
+  position: absolute;
+  width: 82px;
+  height: 9px;
+  top: 2171px;
+  left: 923px;
+}
+
+.screen .text-wrapper-30 {
+  position: absolute;
+  width: 134px;
+  top: 0;
+  left: 41px;
+  font-family: "Inter";
+  font-weight: 600;
+  color: #333333;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .group-18 {
+  position: absolute;
+  width: 209px;
+  height: 41px;
+  top: 360px;
+  left: 487px;
+}
+
+.screen .vector-5 {
+  position: absolute;
+  width: 69px;
+  height: 28px;
+  top: 2158px;
+  left: 923px;
+}
+
+.screen .text-wrapper-31 {
+  position: absolute;
+  width: 191px;
+  top: 0;
+  left: 16px;
+  font-family: "Inter";
+  font-weight: 600;
+  color: #333333;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .group-19 {
+  position: absolute;
+  width: 197px;
+  height: 32px;
+  top: 166px;
+  left: 0;
+}
+
+.screen .vector-6 {
+  position: absolute;
+  width: 83px;
+  height: 3px;
+  top: 2174px;
+  left: 1035px;
+}
+
+.screen .text-wrapper-32 {
+  position: absolute;
+  width: 168px;
+  top: 0;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 600;
+  color: #333333;
+  font-size: 32px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .group-20 {
+  position: absolute;
+  width: 213px;
+  height: 54px;
+  top: 0;
+  left: 457px;
+}
+
+.screen .vector-7 {
+  position: absolute;
+  width: 63px;
+  height: 31px;
+  top: 2156px;
+  left: 923px;
+}
+
+.screen .text-wrapper-33 {
+  position: absolute;
+  width: 199px;
+  top: 0;
+  left: 12px;
+  font-family: "Inter";
+  font-weight: 600;
+  color: #333333;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .group-21 {
+  position: absolute;
+  width: 375px;
+  height: 380px;
+  top: 26px;
+  left: 194px;
+}
+
+.screen .group-22 {
+  position: absolute;
+  width: 316px;
+  height: 227px;
+  top: 89px;
+  left: 236px;
+}
+
+.screen .group-23 {
+  position: absolute;
+  width: 100px;
+  height: 28px;
+  top: 72px;
+  left: 218px;
+}
+
+.screen .text-wrapper-34 {
+  position: absolute;
+  width: 98px;
+  top: 0;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #333333;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .group-24 {
+  position: absolute;
+  width: 106px;
+  height: 28px;
+  top: 199px;
+  left: 161px;
+}
+
+.screen .text-wrapper-35 {
+  position: absolute;
+  width: 104px;
+  top: 0;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #333333;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .group-25 {
+  position: absolute;
+  width: 100px;
+  height: 28px;
+  top: 93px;
+  left: 0;
+}
+
+.screen .group-26 {
+  position: absolute;
+  width: 92px;
+  height: 27px;
+  top: 0;
+  left: 156px;
+}
+
+.screen .text-wrapper-36 {
+  position: absolute;
+  width: 90px;
+  top: 0;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #333333;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .image-9 {
+  width: 446px;
+  height: 558px;
+  top: 213px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .image-10 {
+  width: 394px;
+  height: 394px;
+  top: 16px;
+  left: 1046px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .image-11 {
+  width: 254px;
+  height: 254px;
+  top: 433px;
+  left: 1102px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .image-12 {
+  width: 319px;
+  height: 319px;
+  top: 0;
+  left: 7px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .text-wrapper-37 {
+  position: absolute;
+  top: 2592px;
+  left: 523px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .text-wrapper-38 {
+  position: absolute;
+  top: 3043px;
+  left: 406px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #2dc476;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.screen .view-2 {
+  display: flex;
+  flex-direction: column;
+  width: 621px;
+  height: 319px;
+  align-items: flex-start;
+  padding: 24px 8px 8px;
+  top: 2660px;
+  left: 445px;
+  position: absolute;
+  background-color: #ffffff;
+}
+
+.screen .chart-axis {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.screen .main-chart {
+  display: flex;
+  align-items: center;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.screen .y-axis-left {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0px 4px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.screen .text-wrapper-39 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter";
+  color: #000000b2;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-40 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter";
+  color: #000000b2;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .graphi-grid {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.screen .overlap-22 {
+  position: relative;
+  width: 561px;
+  height: 242px;
+}
+
+.screen .x-lines {
+  flex-direction: column;
+  width: 561px;
+  height: 242px;
+  justify-content: space-between;
+  padding: 6px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: flex-start;
+}
+
+.screen .line {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  margin-top: -1px;
+  object-fit: cover;
+}
+
+.screen .line-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  object-fit: cover;
+}
+
+.screen .y-lines {
+  display: flex;
+  width: 561px;
+  height: 242px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 6px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.screen .line-3 {
+  position: relative;
+  align-self: stretch;
+  width: 1px;
+  margin-left: -1px;
+  object-fit: cover;
+}
+
+.screen .line-4 {
+  position: relative;
+  align-self: stretch;
+  width: 1px;
+  object-fit: cover;
+}
+
+.screen .line-area {
+  position: absolute;
+  width: 561px;
+  height: 228px;
+  top: 7px;
+  left: 0;
+}
+
+.screen .overlap-23 {
+  position: relative;
+  height: 232px;
+  top: -13px;
+}
+
+.screen .line-group {
+  position: absolute;
+  width: 561px;
+  height: 88px;
+  top: 144px;
+  left: 0;
+}
+
+.screen .overlap-group-8 {
+  position: relative;
+  height: 88px;
+}
+
+.screen .single-line {
+  height: 72px;
+  top: 16px;
+  position: absolute;
+  width: 421px;
+  left: 70px;
+}
+
+.screen .line-nodes {
+  position: absolute;
+  width: 561px;
+  height: 88px;
+  top: 0;
+  left: 0;
+}
+
+.screen .basic-node {
+  top: 16px;
+  left: 70px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
+
+.screen .ellipse-fill {
+  position: relative;
+  width: 11px;
+  height: 11px;
+  top: -6px;
+  left: -6px;
+  background-color: #ff928a;
+  border-radius: 5.5px;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.screen .ellipse-fill-wrapper {
+  top: 24px;
+  left: 210px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
+
+.screen .basic-node-2 {
+  top: 82px;
+  left: 351px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
+
+.screen .basic-node-3 {
+  top: 87px;
+  left: 491px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
+
+.screen .data-label {
+  position: absolute;
+  width: 140px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.screen .text-wrapper-41 {
+  position: absolute;
+  top: -2px;
+  left: 54px;
+  font-family: "Inter";
+  color: #000000b2;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .data-label-2 {
+  top: 8px;
+  left: 140px;
+  position: absolute;
+  width: 140px;
+  height: 16px;
+}
+
+.screen .text-wrapper-42 {
+  position: absolute;
+  top: -2px;
+  left: 53px;
+  font-family: "Inter";
+  color: #000000b2;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .data-label-3 {
+  top: 66px;
+  left: 280px;
+  position: absolute;
+  width: 140px;
+  height: 16px;
+}
+
+.screen .data-label-4 {
+  top: 71px;
+  left: 421px;
+  position: absolute;
+  width: 140px;
+  height: 16px;
+}
+
+.screen .div-2 {
+  position: absolute;
+  width: 561px;
+  height: 198px;
+  top: 0;
+  left: 0;
+}
+
+.screen .overlap-24 {
+  position: relative;
+  height: 198px;
+}
+
+.screen .single-line-2 {
+  height: 182px;
+  top: 15px;
+  position: absolute;
+  width: 421px;
+  left: 70px;
+}
+
+.screen .basic-node-4 {
+  top: 34px;
+  left: 70px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
+
+.screen .ellipse-fill-2 {
+  width: 11px;
+  height: 11px;
+  top: -6px;
+  left: -6px;
+  background-color: #8979ff;
+  border-radius: 5.5px;
+  position: relative;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.screen .basic-node-5 {
+  top: 16px;
+  left: 210px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
+
+.screen .basic-node-6 {
+  top: 160px;
+  left: 351px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
+
+.screen .basic-node-7 {
+  top: 197px;
+  left: 491px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
+
+.screen .data-label-5 {
+  top: 18px;
+  left: 0;
+  position: absolute;
+  width: 140px;
+  height: 16px;
+}
+
+.screen .data-label-6 {
+  top: 0;
+  left: 140px;
+  position: absolute;
+  width: 140px;
+  height: 16px;
+}
+
+.screen .data-label-7 {
+  top: 144px;
+  left: 280px;
+  position: absolute;
+  width: 140px;
+  height: 16px;
+}
+
+.screen .data-label-8 {
+  top: 181px;
+  left: 421px;
+  position: absolute;
+  width: 140px;
+  height: 16px;
+}
+
+.screen .text-wrapper-43 {
+  position: absolute;
+  top: -2px;
+  left: 52px;
+  font-family: "Inter";
+  color: #000000b2;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .x-axis {
+  padding: 0px 0px 8px 44px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -2px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.screen .x-label-box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.screen .text-wrapper-44 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #000000b2;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .legends {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.screen .line-legends {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0px 8px;
+  padding: 0px 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.screen .legend {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.screen .legend-node {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.screen .basic-node-wrapper {
+  position: relative;
+  height: 2px;
+  top: 7px;
+  background-color: #8979ff;
+}
+
+.screen .basic-node-8 {
+  position: relative;
+  width: 1px;
+  height: 1px;
+  top: 1px;
+  left: 8px;
+}
+
+.screen .ellipse-fill-3 {
+  width: 8px;
+  height: 8px;
+  top: -4px;
+  left: -4px;
+  background-color: #8979ff;
+  border-radius: 4px;
+  position: relative;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.screen .text-wrapper-45 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.5px;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #000000b2;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .overlap-group-9 {
+  position: relative;
+  height: 2px;
+  top: 7px;
+  background-color: #ff928a;
+}
+
+.screen .ellipse-fill-4 {
+  width: 8px;
+  height: 8px;
+  top: -4px;
+  left: -4px;
+  background-color: #ff928a;
+  border-radius: 4px;
+  position: relative;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.screen .frame-2 {
+  display: flex;
+  width: 968px;
+  align-items: center;
+  gap: 74px;
+  position: absolute;
+  top: 4465px;
+  left: 264px;
+}
+
+.screen .group-27 {
+  position: relative;
+  width: 275.09px;
+  height: 415.46px;
+}
+
+.screen .overlap-group-10 {
+  position: absolute;
+  width: 273px;
+  height: 93px;
+  top: 323px;
+  left: 0;
+}
+
+.screen .rectangle-13 {
+  position: absolute;
+  width: 273px;
+  height: 87px;
+  top: 0;
+  left: 0;
+  background-color: #2dc476;
+}
+
+.screen .text-wrapper-46 {
+  width: 256px;
+  top: 22px;
+  left: 8px;
+  color: #ffffff;
+  font-size: 50px;
+  position: absolute;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .mask-group-3 {
+  position: absolute;
+  width: 273px;
+  height: 312px;
+  top: 0;
+  left: 0;
+}
+
+.screen .group-28 {
+  position: relative;
+  width: 275.93px;
+  height: 415.46px;
+}
+
+.screen .overlap-25 {
+  position: absolute;
+  width: 273px;
+  height: 93px;
+  top: 323px;
+  left: 1px;
+}
+
+.screen .mask-group-4 {
+  position: absolute;
+  width: 274px;
+  height: 315px;
+  top: 0;
+  left: 0;
+}
+
+.screen .group-29 {
+  position: relative;
+  width: 275.09px;
+  height: 415.46px;
+  margin-right: -2.11px;
+}
+
+.screen .overlap-26 {
+  position: absolute;
+  width: 273px;
+  height: 315px;
+  top: 0;
+  left: 0;
+  background-color: #ffeac5;
+  background-image: url(https://c.animaapp.com/8SCHyoJX/img/image-28@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.screen .image-13 {
+  width: 294px;
+  height: 416px;
+  top: 5227px;
+  left: 1030px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .text-wrapper-47 {
+  position: absolute;
+  width: 620px;
+  top: 5269px;
+  left: -116px;
+  font-family: "WAGURI TTF";
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 70px;
+}
+
+.screen .element-6 {
+  position: absolute;
+  width: 420px;
+  top: 5262px;
+  left: 539px;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 63px;
+}
